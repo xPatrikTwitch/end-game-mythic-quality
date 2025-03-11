@@ -1,0 +1,9 @@
+   {
+     "name": "end-game-mythic-quality",
+     "version": "1.0.0",
+     "title": "Mythic Quality",
+     "author": "xPatrikPvP",
+	 "description": "Adds end-game mythic quality tier",
+     "factorio_version": "2.0",
+	 "dependencies": ["quality"]
+   }
